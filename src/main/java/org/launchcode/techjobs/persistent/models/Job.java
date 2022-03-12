@@ -4,7 +4,6 @@ import javax.persistence.*;
 
 @Entity
 public class Job{
-//test
     @Id
     @GeneratedValue
     private int id;
